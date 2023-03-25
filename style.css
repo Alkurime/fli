@@ -1,0 +1,266 @@
+ @import url("https://fonts.googleapis.com/css2?family=Tajawal:wght@300;700&display=swap");
+
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "tajawal" , sans-serif;
+  text-align: center;
+  justify-content: center;
+  color: white;
+  
+}
+
+body {
+  
+
+
+background: linear-gradient(900deg,  black, #006987 );
+
+  
+  
+
+}
+
+.s {
+  
+
+background: darkgoldenrod ;
+  text-align: center;
+  color: white;
+  
+  border-radius: 20px
+}
+nav {
+  text-align: center;
+  
+  padding: 15px;
+  margin: 0px
+  
+}
+nav li {
+  display: inline-flex;
+  text-decoration: none;
+  text-align: center;
+  padding: 0 20px;
+  border: 1px solid  #f8f7fc;
+  margin: 9px;
+  
+
+background: linear-gradient(90deg,#8e2de2, #4a00e0);
+  border-radius: 15px;
+  color: white;
+  
+}
+
+.lma {
+  color: white;
+  text-align: center;
+  
+}
+.lma h2 {
+  background: darkgoldenrod
+}
+.lma2  {
+  
+  margin: 89px;
+}
+.lma2 img {
+  width: 100%;
+  height: 50%;
+  
+}
+.lma2 h2 {
+  background: linear-gradient(darkgoldenrod, #714944 ) darkgoldenrod;
+  color: white;
+  border-radius: 20px;
+  margin: 30px;
+  padding: 0px
+}
+
+.won {
+  background: #006987;
+  margin: 5px;
+  border-radius: 18px
+}
+.ww {
+  
+  text-align: center;
+  margin: 17px;
+  padding: 12px;
+  
+  
+  }
+  
+  .ww a {
+  text-decoration: none;
+  color: white
+  
+}
+.wwt {
+  
+  text-align: center;
+  margin: 17px;
+  padding: 12px;
+  
+  
+  }
+  
+  .wwt a {
+  text-decoration: none;
+  color: white
+  
+}
+
+
+
+.wto 
+{background: #006987;
+  margin: 5px;
+  border-radius: 18px
+  
+}
+.w2 {
+  
+  background:  white;
+  text-align: center;
+  margin: 17px;
+  padding: 12px;
+  border-radius: 18px
+}
+.w2 img {
+  border-radius:  15px;
+  width: 100%;
+  margin: 10px
+}
+.w2 h3 {
+  background-color: lightseagreen;
+  border-radius: 0px 0 15px 15px ;
+  width: 100%;
+  transition-duration: 3s;
+  padding: 5px;
+}
+
+.w2 h2 {
+  color: #006987
+}
+.w2 p {
+  color: slategrey;
+  
+}
+.w1 {
+  
+  
+  background:  white;
+  
+  
+  border-radius: 15px;
+  margin: 19px;
+  padding: 13px;
+  
+  
+}
+.w1 img {
+  border-radius:  15px;
+  width: 100%;
+  margin: 10px;
+  
+  
+}
+.w1 h3 {
+  background-color: darkgoldenrod;
+  border-radius: 0px 0 15px 15px ;
+  width: 100%;
+  padding: 5px;
+  transition-duration: 3s;
+
+ 
+}
+
+.w1 h2 {
+  color: darkgoldenrod
+}
+
+
+.w2 h3 :hover {
+  background: ghostwhite;
+  transition-duration: 0.s
+}
+
+
+
+.ww p {
+  color: slategrey
+}
+
+  
+.re  h3  {
+    text-decoration: none;
+    
+background: linear-gradient(90deg,#8e2de2, #4a00e0);
+    padding: 10px;
+    margin-top: 200px;
+    margin-bottom: 80px;
+    border-radius: 16px;
+    text-align: center;
+    
+  }
+  .re a{
+    text-decoration: none;
+    
+    
+  }
+
+
+.hll{
+  background: linear-gradient(90deg,#8e2de2, #4a00e0);
+  padding: 5px
+}
+.ee {
+  background: linear-gradient(90deg,#8e2de2, #4a00e0);
+  padding: 5px;
+  margin: 0
+  
+}
+#q :hover{
+  background: darkslateblue;
+  border-radius: 15px;
+  padding: 5px;
+  
+}
+
+.lma2 h2:hover {
+  padding: 3px;
+  border-radius: 15px;
+  background: linear-gradient(90deg,#8e2de2, #4a00e0);
+}
+.ar  :hover {
+    background: darkgoldenrod
+}
+
+.qqq {
+  margin: 20px;
+  margin-top: 50px;
+  background: #006987;
+  border-radius: 15px;
+  padding: 15px
+  
+}
+
+@media screen and (max-width: 600px){
+
+body {display: block;
+  
+}
+
+}
+.p img{
+  margin: 0
+}
+.v {
+  background: linear-gradient(90deg,#8e2de2, #4a00e0);
+  margin: 4px;
+  padding: 7px;
+  border-radius: 15px 15px 0px 0px
+}
