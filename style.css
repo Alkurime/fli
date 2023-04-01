@@ -255,12 +255,17 @@ body {display: block;
 }
 
 }
-.p img{
-  margin: 0
+
 }
 .v {
   background: linear-gradient(90deg,#8e2de2, #4a00e0);
   margin: 4px;
   padding: 7px;
   border-radius: 15px 15px 0px 0px
+}
+
+.p img {
+  width: 100%;
+  height: 100%
+  
 }
